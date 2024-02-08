@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/730160777576434774/94492a96c18349c58fc8160cb6cebdc5/artifacts
+end_time: 1706282249567
+entry_point_name: ''
+experiment_id: '730160777576434774'
+lifecycle_stage: active
+run_id: 94492a96c18349c58fc8160cb6cebdc5
+run_name: fun-stork-447
+run_uuid: 94492a96c18349c58fc8160cb6cebdc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706282233710
+status: 3
+tags: []
+user_id: Stefan

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/506675381864767218/af75c3824706495ea94754e90865e7a9/artifacts
+end_time: 1705790740497
+entry_point_name: ''
+experiment_id: '506675381864767218'
+lifecycle_stage: active
+run_id: af75c3824706495ea94754e90865e7a9
+run_name: unequaled-kite-576
+run_uuid: af75c3824706495ea94754e90865e7a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705790010975
+status: 3
+tags: []
+user_id: Stefan

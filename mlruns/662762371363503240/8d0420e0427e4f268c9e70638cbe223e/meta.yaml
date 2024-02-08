@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/662762371363503240/8d0420e0427e4f268c9e70638cbe223e/artifacts
+end_time: 1705787420226
+entry_point_name: ''
+experiment_id: '662762371363503240'
+lifecycle_stage: active
+run_id: 8d0420e0427e4f268c9e70638cbe223e
+run_name: upbeat-crow-144
+run_uuid: 8d0420e0427e4f268c9e70638cbe223e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705786589265
+status: 3
+tags: []
+user_id: Stefan

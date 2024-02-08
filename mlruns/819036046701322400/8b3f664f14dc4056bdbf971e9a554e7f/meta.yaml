@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/819036046701322400/8b3f664f14dc4056bdbf971e9a554e7f/artifacts
+end_time: 1706027857038
+entry_point_name: ''
+experiment_id: '819036046701322400'
+lifecycle_stage: active
+run_id: 8b3f664f14dc4056bdbf971e9a554e7f
+run_name: intelligent-bear-144
+run_uuid: 8b3f664f14dc4056bdbf971e9a554e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706026373362
+status: 3
+tags: []
+user_id: Stefan

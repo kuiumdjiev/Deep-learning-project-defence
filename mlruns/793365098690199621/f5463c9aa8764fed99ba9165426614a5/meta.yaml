@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/793365098690199621/f5463c9aa8764fed99ba9165426614a5/artifacts
+end_time: 1706362924487
+entry_point_name: ''
+experiment_id: '793365098690199621'
+lifecycle_stage: active
+run_id: f5463c9aa8764fed99ba9165426614a5
+run_name: exultant-mouse-172
+run_uuid: f5463c9aa8764fed99ba9165426614a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706362907410
+status: 3
+tags: []
+user_id: Stefan

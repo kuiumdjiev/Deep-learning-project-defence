@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/697464704220033235/2776387152f34c5d938b05fdb41a458b/artifacts
+end_time: 1706021799316
+entry_point_name: ''
+experiment_id: '697464704220033235'
+lifecycle_stage: active
+run_id: 2776387152f34c5d938b05fdb41a458b
+run_name: loud-snipe-940
+run_uuid: 2776387152f34c5d938b05fdb41a458b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706021607090
+status: 3
+tags: []
+user_id: Stefan

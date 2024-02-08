@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/816681811237655637/a0e8fd7e361d4a89ac2252f21e2ffc65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '816681811237655637'
+lifecycle_stage: active
+run_id: a0e8fd7e361d4a89ac2252f21e2ffc65
+run_name: righteous-flea-125
+run_uuid: a0e8fd7e361d4a89ac2252f21e2ffc65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706044237985
+status: 1
+tags: []
+user_id: Stefan

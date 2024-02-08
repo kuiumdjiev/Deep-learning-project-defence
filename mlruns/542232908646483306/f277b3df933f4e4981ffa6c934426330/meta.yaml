@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/542232908646483306/f277b3df933f4e4981ffa6c934426330/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '542232908646483306'
+lifecycle_stage: active
+run_id: f277b3df933f4e4981ffa6c934426330
+run_name: inquisitive-loon-892
+run_uuid: f277b3df933f4e4981ffa6c934426330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705875556759
+status: 1
+tags: []
+user_id: Stefan

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/766444392796372240/9564a4980cc944509d3523e025cf0e68/artifacts
+end_time: 1706277480647
+entry_point_name: ''
+experiment_id: '766444392796372240'
+lifecycle_stage: active
+run_id: 9564a4980cc944509d3523e025cf0e68
+run_name: orderly-sheep-102
+run_uuid: 9564a4980cc944509d3523e025cf0e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706277462007
+status: 3
+tags: []
+user_id: Stefan

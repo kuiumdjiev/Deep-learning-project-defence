@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/765023306983250502/4b5077caeebb4a00aa6781bebcf9a00c/artifacts
+end_time: 1706362967447
+entry_point_name: ''
+experiment_id: '765023306983250502'
+lifecycle_stage: active
+run_id: 4b5077caeebb4a00aa6781bebcf9a00c
+run_name: tasteful-moth-130
+run_uuid: 4b5077caeebb4a00aa6781bebcf9a00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706362956668
+status: 3
+tags: []
+user_id: Stefan

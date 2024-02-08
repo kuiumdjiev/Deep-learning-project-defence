@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/258508750623976320/8854af0eb47b4e8db14fa2359845da28/artifacts
+end_time: 1706290634904
+entry_point_name: ''
+experiment_id: '258508750623976320'
+lifecycle_stage: active
+run_id: 8854af0eb47b4e8db14fa2359845da28
+run_name: chill-squirrel-42
+run_uuid: 8854af0eb47b4e8db14fa2359845da28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706287642062
+status: 3
+tags: []
+user_id: Stefan

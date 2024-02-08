@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/357849969015323663/caad0451636a44139cc47f4b3a5b5724/artifacts
+end_time: 1706212407672
+entry_point_name: ''
+experiment_id: '357849969015323663'
+lifecycle_stage: active
+run_id: caad0451636a44139cc47f4b3a5b5724
+run_name: bouncy-vole-502
+run_uuid: caad0451636a44139cc47f4b3a5b5724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706205617344
+status: 3
+tags: []
+user_id: Stefan

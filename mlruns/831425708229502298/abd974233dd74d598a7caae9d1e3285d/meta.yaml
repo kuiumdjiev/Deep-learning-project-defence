@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82/DL/Project/mlruns/831425708229502298/abd974233dd74d598a7caae9d1e3285d/artifacts
+end_time: 1706367292718
+entry_point_name: ''
+experiment_id: '831425708229502298'
+lifecycle_stage: active
+run_id: abd974233dd74d598a7caae9d1e3285d
+run_name: nervous-cub-542
+run_uuid: abd974233dd74d598a7caae9d1e3285d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706365658912
+status: 3
+tags: []
+user_id: Stefan
