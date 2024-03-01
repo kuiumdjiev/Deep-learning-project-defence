@@ -1,1 +1,0 @@
-Start with simple layers with adam | LSTM 6|1 Desnse|BatchNormalization 6 |Dropout 6| with round power and 55000 samples and min max scaller
